@@ -55,13 +55,13 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🔒 Demo Credentials for Login in
+## 🔒 Credentials for Login in
 
 You can access our application using the following demo account:
 
 - User: guest@wildoasishotel.com
 - Password: guest1234
 
-## 💰 You can help me by Donating
+## 💰 Support me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pfiterman)
