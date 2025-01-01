@@ -1,5 +1,3 @@
-![Screenshot of the webAppWildOasisHotel](./public/logo-dark.png)
-
 ## 👋 Introduction
 
 A user-friendly web application for managing hotel bookings including real-time availability, room details, secure booking processes, and an elegant, responsive design.
