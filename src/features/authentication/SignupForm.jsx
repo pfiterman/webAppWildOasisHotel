@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { useForm } from "react-hook-form";
 
-import { useSignup } from "./useSignUp";
+import { useSignUp } from "./useSignUp";
 
 import Button from "../../ui/Button";
 import Form from "../../ui/Form";
@@ -11,7 +11,7 @@ import Input from "../../ui/Input";
 // Email regex: /\S+@\S+\.\S+/
 
 function SignupForm() {
-  const { signup, isLoading } = useSignup();
+  const { signup, isLoading } = useSignUp();
   const { register, formState, getValues, handleSubmit, reset } = useForm();
   const { errors } = formState;
 
